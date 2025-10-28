@@ -38,6 +38,10 @@ export default defineConfig({
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'] },
+      //screenshot:'on',
+      //video:'on',
+     // trace:'on'
+
     },
 
     //{
