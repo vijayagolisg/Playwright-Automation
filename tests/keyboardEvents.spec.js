@@ -25,6 +25,7 @@ test.only("keyboard events using Arrow Left",async function ({page})
     for(let i=0;i<5;i++)
     {
         await page.keyboard.press("ArrowLeft")
+        
     }
 
     await page.keyboard.up("Shift")
