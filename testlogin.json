@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "username":"vijaya",
+        "password":"admin123"
+    },
+    {
+        "id":2,
+        "username":"praneeth",
+        "password":"admin1234"
+    },
+    {
+        "id":3,
+        "username":"riyansh",
+        "password":"admin12345"
+
+    },
+    {
+
+        "id":4,
+        "username":"thathya",
+        "password":"admin123456"
+    }
+]

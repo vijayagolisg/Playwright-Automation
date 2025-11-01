@@ -1,0 +1,11 @@
+{
+    "username":"vijaya",
+    "password":"admin123",
+    "hobbies":["playing","reading","dancing"],
+    "address":
+    {
+        "area":"Bangalore",
+        "pincode":"1234"
+
+    }
+}
