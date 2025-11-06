@@ -1,0 +1,170 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6] [cursor=pointer]:
+        - img "logo" [ref=e7]
+        - heading "Learn Automation Courses" [level=1] [ref=e8]
+      - generic [ref=e9]:
+        - button "Cart" [ref=e10] [cursor=pointer]
+        - generic [ref=e11]: Manage
+        - img "menu" [ref=e12] [cursor=pointer]
+        - generic [ref=e13]:
+          - generic [ref=e14]:
+            - text: Learn Automation Courses
+            - img "delete" [ref=e15] [cursor=pointer]
+          - generic [ref=e16]:
+            - link "Home" [ref=e17] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e18]: Home
+            - link "Practise" [ref=e19] [cursor=pointer]:
+              - /url: /practise
+              - generic [ref=e20]: Practise
+            - button "Sign out" [ref=e21] [cursor=pointer]
+  - generic [ref=e24]:
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - heading "Java For Tester" [level=2] [ref=e30]
+        - paragraph [ref=e31]: Java For Tester...
+      - generic [ref=e32]:
+        - img "instructor" [ref=e33]
+        - text: Mukesh Otwani
+      - generic [ref=e34]:
+        - img "clock" [ref=e35]
+        - generic [ref=e36]: "Start:"
+        - text: Mon Feb 17 2025
+      - generic [ref=e37]:
+        - img "clock" [ref=e38]
+        - generic [ref=e39]: "Finish:"
+        - text: Mon Mar 17 2025
+      - generic [ref=e40]:
+        - text: "Price:"
+        - generic [ref=e41]: ₹500
+      - button "Add to Cart right arrow" [ref=e42] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e43]
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - heading "Selenium For Web Automation" [level=2] [ref=e49]
+        - paragraph [ref=e50]: Selenium For Web Automation...
+      - generic [ref=e51]:
+        - img "instructor" [ref=e52]
+        - text: Mukesh Otwani
+      - generic [ref=e53]:
+        - img "clock" [ref=e54]
+        - generic [ref=e55]: "Start:"
+        - text: Mon Feb 17 2025
+      - generic [ref=e56]:
+        - img "clock" [ref=e57]
+        - generic [ref=e58]: "Finish:"
+        - text: Mon Mar 17 2025
+      - generic [ref=e59]:
+        - text: "Price:"
+        - generic [ref=e60]: ₹1500
+      - button "Add to Cart right arrow" [ref=e61] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e62]
+    - generic [ref=e66]:
+      - generic [ref=e67]:
+        - heading "abcd" [level=2] [ref=e68]
+        - paragraph [ref=e69]: sdjois...
+      - generic [ref=e70]:
+        - img "instructor" [ref=e71]
+        - text: mukeh
+      - generic [ref=e72]:
+        - img "clock" [ref=e73]
+        - generic [ref=e74]: "Start:"
+        - text: Mon Nov 03 2025
+      - generic [ref=e75]:
+        - img "clock" [ref=e76]
+        - generic [ref=e77]: "Finish:"
+        - text: Wed Dec 03 2025
+      - generic [ref=e78]:
+        - text: "Price:"
+        - generic [ref=e79]: ₹100
+      - button "Add to Cart right arrow" [ref=e80] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e81]
+    - generic [ref=e85]:
+      - generic [ref=e86]:
+        - heading "JAVA-ADV" [level=2] [ref=e87]
+        - paragraph [ref=e88]: JAVA-ADV...
+      - generic [ref=e89]:
+        - img "instructor" [ref=e90]
+        - text: SOMNATH
+      - generic [ref=e91]:
+        - img "clock" [ref=e92]
+        - generic [ref=e93]: "Start:"
+        - text: Mon Nov 03 2025
+      - generic [ref=e94]:
+        - img "clock" [ref=e95]
+        - generic [ref=e96]: "Finish:"
+        - text: Wed Dec 03 2025
+      - generic [ref=e97]:
+        - text: "Price:"
+        - generic [ref=e98]: ₹100
+      - button "Add to Cart right arrow" [ref=e99] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e100]
+    - generic [ref=e104]:
+      - generic [ref=e105]:
+        - heading "JAVA-ADV-REVISE" [level=2] [ref=e106]
+        - paragraph [ref=e107]: Advance java file...
+      - generic [ref=e108]:
+        - img "instructor" [ref=e109]
+        - text: Somnath
+      - generic [ref=e110]:
+        - img "clock" [ref=e111]
+        - generic [ref=e112]: "Start:"
+        - text: Mon Nov 03 2025
+      - generic [ref=e113]:
+        - img "clock" [ref=e114]
+        - generic [ref=e115]: "Finish:"
+        - text: Wed Dec 03 2025
+      - generic [ref=e116]:
+        - text: "Price:"
+        - generic [ref=e117]: ₹5100
+      - button "Add to Cart right arrow" [ref=e118] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e119]
+    - generic [ref=e123]:
+      - generic [ref=e124]:
+        - heading "JAVA-ADV-REVISE-QA" [level=2] [ref=e125]
+        - paragraph [ref=e126]: Advance java file...
+      - generic [ref=e127]:
+        - img "instructor" [ref=e128]
+        - text: Somnath
+      - generic [ref=e129]:
+        - img "clock" [ref=e130]
+        - generic [ref=e131]: "Start:"
+        - text: Mon Nov 03 2025
+      - generic [ref=e132]:
+        - img "clock" [ref=e133]
+        - generic [ref=e134]: "Finish:"
+        - text: Wed Dec 03 2025
+      - generic [ref=e135]:
+        - text: "Price:"
+        - generic [ref=e136]: ₹5100
+      - button "Add to Cart right arrow" [ref=e137] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e138]
+  - generic [ref=e140]:
+    - generic [ref=e141]:
+      - heading "Learn Automation By Mukesh Otwani" [level=3] [ref=e142]
+      - heading "©2023 All rights reserved" [level=2] [ref=e143]
+    - generic [ref=e144] [cursor=pointer]:
+      - link [ref=e145]:
+        - /url: https://youtube.com/MukeshOtwani
+        - img [ref=e146]
+      - link [ref=e149]:
+        - /url: https://twitter.com/MukeshOtwani
+        - img [ref=e150]
+      - link [ref=e152]:
+        - /url: https://www.linkedin.com/in/mukesh-otwani-93631b99/
+        - img [ref=e153]
+      - link [ref=e155]:
+        - /url: https://www.facebook.com/groups/256655817858291
+        - img [ref=e156]
+```
