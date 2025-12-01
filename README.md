@@ -39,7 +39,7 @@ Playwright-Automation/
 - Run tests in headed mode  
   npx playwright test --headed
 - Run particular test in headed mode and particular browser
-  npx playwright test --headed 
+  npx playwright test ./tests/loginApplication.spec.js --headed --project=firefox
 
 ## Test Reports
 After execution, view the HTML report using:  
